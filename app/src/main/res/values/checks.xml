@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sa">
+        <item>android.R.drawable.checkbox_on_background</item>
+        <item>android.R.drawable.checkbox_off_background</item>
+    </string-array>
+</resources>
